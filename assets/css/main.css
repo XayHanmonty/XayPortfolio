@@ -5027,13 +5027,15 @@ a img {
 }
 
 .user-projects {
-    margin: 20px auto
+    margin: 20px auto;
+    margin-top: -5%;
 }
 
 .user-projects img {
     max-width: 100%;
     height: auto;
     border-radius: 5px
+    
 }
 
 .user-projects h5 {
@@ -5046,7 +5048,8 @@ a img {
 }
 
 .user-projects p {
-    margin-right: 5px
+    margin-right: 5px;
+
 }
 
 @media only screen and (min-width:550px) {
@@ -5057,14 +5060,14 @@ a img {
 
     .contents,
     .contents-right {
-        margin-top: -5%
+        margin-top: 0%
     }
 
     .contents-right,
     .images-right {
         float: right;
         width: 48%;
-        margin-top: 5%
+        margin-top: 16%
     }
 
     .images-right img {
@@ -5074,7 +5077,8 @@ a img {
     .images-left {
         float: left;
         width: 48%;
-        margin-top: 16%
+        margin-top: 33%
+        
     }
 
     .images-left img {
