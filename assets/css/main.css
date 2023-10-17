@@ -5063,16 +5063,18 @@ a img {
     .contents-right,
     .images-right {
         float: right;
-        width: 48%
+        width: 48%;
+        margin-top: 5%
     }
 
     .images-right img {
-        float: right
+        float: right;
     }
 
     .images-left {
         float: left;
-        width: 48%
+        width: 48%;
+        margin-top: 16%
     }
 
     .images-left img {
