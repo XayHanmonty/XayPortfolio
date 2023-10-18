@@ -5008,7 +5008,7 @@ a img {
 
 .user-details {
     text-align: center;
-    margin: 5px auto
+    margin: 5px auto;
 }
 
 #projects {
@@ -5027,15 +5027,13 @@ a img {
 }
 
 .user-projects {
-    margin: 20px auto;
-    margin-top: -5%;
+    margin: 20px auto
 }
 
 .user-projects img {
     max-width: 100%;
     height: auto;
     border-radius: 5px
-    
 }
 
 .user-projects h5 {
@@ -5048,8 +5046,7 @@ a img {
 }
 
 .user-projects p {
-    margin-right: 5px;
-
+    margin-right: 5px
 }
 
 @media only screen and (min-width:550px) {
@@ -5060,25 +5057,24 @@ a img {
 
     .contents,
     .contents-right {
-        margin-top: 0%
+        margin-top: -5%
     }
 
     .contents-right,
     .images-right {
         float: right;
-        width: 48%;
-        margin-top: 16%
+        width: 48%
     }
 
     .images-right img {
         float: right;
+        margin-top: 25%
     }
 
     .images-left {
         float: left;
         width: 48%;
-        margin-top: 33%
-        
+        margin-top: 12%
     }
 
     .images-left img {
